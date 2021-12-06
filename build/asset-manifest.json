@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d5dd94c.chunk.css",
+    "main.js": "/static/js/main.450c1c5b.chunk.js",
+    "main.js.map": "/static/js/main.450c1c5b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ba8584dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ba8584dc.js.map",
+    "static/js/2.15df76a0.chunk.js": "/static/js/2.15df76a0.chunk.js",
+    "static/js/2.15df76a0.chunk.js.map": "/static/js/2.15df76a0.chunk.js.map",
+    "static/js/3.34b0910a.chunk.js": "/static/js/3.34b0910a.chunk.js",
+    "static/js/3.34b0910a.chunk.js.map": "/static/js/3.34b0910a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3d5dd94c.chunk.css.map": "/static/css/main.3d5dd94c.chunk.css.map",
+    "static/js/2.15df76a0.chunk.js.LICENSE.txt": "/static/js/2.15df76a0.chunk.js.LICENSE.txt",
+    "static/media/iPhone12.07088938.png": "/static/media/iPhone12.07088938.png",
+    "static/media/iPhone12.ca26b36b.webp": "/static/media/iPhone12.ca26b36b.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba8584dc.js",
+    "static/js/2.15df76a0.chunk.js",
+    "static/css/main.3d5dd94c.chunk.css",
+    "static/js/main.450c1c5b.chunk.js"
+  ]
+}

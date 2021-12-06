@@ -1,6 +1,8 @@
 # React Calculator
 
-React Calculator designed after iOS. The calculator visually is identical to the iPhone 12's calculator app.
+React Calculator designed after iOS. The calculator visually and functionally is identical to the iPhone 12's calculator app.
+
+![React Calculator](https://raw.githubusercontent.com/MichaelXF/react-calculator/master/Image.png)
 
 # Getting Started with Create React App
 
