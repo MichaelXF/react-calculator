@@ -1,4 +1,4 @@
-#[React Calculator](https://michaelxf.github.io/react-calculator/build/)
+# [React Calculator](https://michaelxf.github.io/react-calculator/build/)
 
 React Calculator designed after iOS. The calculator visually and functionally is identical to the iPhone 12's calculator app.
 
