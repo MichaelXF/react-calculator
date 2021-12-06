@@ -1,12 +1,16 @@
 # [React Calculator](https://michaelxf.github.io/react-calculator/build/)
 
-React Calculator designed after iOS. The calculator visually and functionally is identical to the iPhone 12's calculator app.
+React Calculator designed after iOS. The calculator is visually and functionally identical to the iPhone 12's calculator app.
 
 ![React Calculator](https://raw.githubusercontent.com/MichaelXF/react-calculator/master/Image.png)
 
 **[Try the website here.](https://michaelxf.github.io/react-calculator/build/)**
 
 `https://michaelxf.github.io/react-calculator/build/`
+
+# License
+
+MIT License.
 
 # Getting Started with Create React App
 
